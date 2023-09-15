@@ -5,5 +5,7 @@
 
 ## Database Recordings By Nilanshu Yadav: https://drive.google.com/drive/folders/19cndoh13PFmfKe2CpYHx4rL36Go4Qpd5?usp=sharing
 
+## MVC Recordings By Nilanshu Yadav: https://drive.google.com/drive/folders/1YtSVjUtSfiTxmfBFQ5z3dpOBlkhEuQvn?usp=sharing
+
 ## C# class Notes By Gulshan Kumar: https://gulshankumarnotes.notion.site/C-Notes-By-bd96d7f3e61a4fdeaefb56a60275914f?pvs=4
 
